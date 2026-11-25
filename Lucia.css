@@ -1,0 +1,97 @@
+body {
+  background-color: #111;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+.BG-properties {
+  background-color: #a00000;
+  background-image: url("Lucia8.jpeg");
+  background-position: center 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 120px;
+}
+
+h1,
+h2,
+h3 {
+  color: #e33;
+}
+
+.site-nav {
+  background-color: #222;
+  padding: 12px;
+}
+
+.site-nav a {
+  color: #f55;
+  margin: 8px;
+}
+
+.content-section {
+  background-color: #1d1d1d;
+  border: 1px solid #7d2424;
+  border-radius: 6px;
+  margin: 16px 0;
+  padding: 16px;
+}
+
+.lucia-image {
+  max-width: 100%;
+}
+
+.media-frame iframe {
+  height: 400px;
+  max-width: 100%;
+  width: 700px;
+}
+
+audio,
+video {
+  max-width: 100%;
+}
+
+video {
+  width: 70%;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #7d2424;
+  padding: 8px;
+  text-align: left;
+}
+
+a {
+  color: #f55;
+}
+
+mark {
+  background-color: #a00000;
+  color: white;
+}
+
+.button-link {
+  background-color: #b00;
+  color: white;
+  display: inline-block;
+  margin: 8px;
+  padding: 10px;
+  text-decoration: none;
+}

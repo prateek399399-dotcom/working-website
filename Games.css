@@ -1,0 +1,43 @@
+body {
+  background-color: #eaf2ff;
+  color: #252b35;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #243f70;
+  text-align: center;
+}
+
+h2 {
+  color: #243f70;
+}
+
+.gc {
+  background-color: white;
+  border: 1px solid #cbd7e8;
+  border-radius: 6px;
+  margin: 14px 0;
+  padding: 14px;
+}
+
+.gc h3 {
+  color: #31568a;
+  margin-top: 0;
+}
+
+.gc img {
+  width: 180px;
+  height: 140px;
+  object-fit: contain;
+}
+
+.gt {
+  color: #486b52;
+}
+
+a {
+  color: #31568a;
+}
